@@ -1,6 +1,6 @@
-# Hotel Booking Data Analysis
+# Hotel Booking Data Analysis - For Learning
 
-This project explores the **Hotel Booking dataset**, a rich real-world dataset containing hotel reservation details, cancellations, customer behavior, and pricing.  
+This project explores the **Hotel Booking dataset**, a rich real-world dataset containing hotel reservation details, cancellations, customer behavior, and pricing(Antonio, Almeida & Nunes, 2019, Kaggle/UCI).  
 The aim is to perform **end-to-end analysis** using Excel, Python, and Tableau — showcasing how different tools can complement one another for data cleaning, exploration, visualization, and insights.
 
 ---
